@@ -1,0 +1,42 @@
+DISENO Y PRODUCCION SITIO WEB 
+TIA TOMATE
+
+====
+
+Objetivos Comerciales:
+
+Cliente solicita crear maqueta para cerca "Acerca de"
+Debe incluir reseña sobre su historia, la procedencia de sus productos y equipo de trabajo.
+
+- Enfásis pasión del negicio y la compra de sus productos
+
+====
+
+Requerimientos visuales:
+
+- Arquitectura de contenidos:
+RESENA 
+SOBRE PRODUCTOS
+QUIENES SOMOS
+
+- UX:
+Debe ser responsive, versión desktop y mobile 
+
+- UI:
+Concoer al usuario para ejorar la experiencia de compra
+
+====
+
+Entregables del Cliente:
+- Guía de Estilos
+- Mockup
+- Contenido será entregado por el Community Manager
+
+
+
+
+====
+
+Font titulos raleway
+fonts parrafos opensans
+
